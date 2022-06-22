@@ -1,6 +1,6 @@
 torch==1.9.0+cu111
 torchvision==0.10.0+cu111
-numpy==1.18.0
+numpy==1.22.0
 Pillow==6.2.1
 Cmake
 dlib
